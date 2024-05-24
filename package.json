@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Orxan477/Google-Wallet_Apple-Pay_Card_Integration.git"
+    "url": "git+https://github.com/Orxan477/Google-Wallet_Apple-Pay_Card_Integration.git"
   },
   "author": "Orkhan ganbarov\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[G",
   "license": "ISC",
