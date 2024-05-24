@@ -1,0 +1,24 @@
+{
+  "name": "google-wallet",
+  "version": "1.0.0",
+  "description": "Google Wallet Card Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orxan477/Google-Wallet_Apple-Pay_Card_Integration.git"
+  },
+  "author": "Orkhan ganbarov\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orxan477/Google-Wallet_Apple-Pay_Card_Integration/issues"
+  },
+  "homepage": "https://github.com/Orxan477/Google-Wallet_Apple-Pay_Card_Integration#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "googleapis": "^137.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
