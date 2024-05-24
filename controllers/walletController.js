@@ -69,7 +69,17 @@ class WalletController {
   }
 
   createJwtNewObjects(req, res) {
-    
+    // const response = {
+    //     status: 'success',
+    //     message: 'Received name successfully',
+    //     data: {
+    //         name: req.body.name
+    //     }
+    // };
+
+    // // JSON formatında yanıtı istemciye gönderme
+    // res.json(response);
+    // return;
     const { issuerId, classSuffix, objectSuffix } = req.body;
 
     let newClass = {
